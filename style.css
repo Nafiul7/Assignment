@@ -163,6 +163,7 @@ main {
     letter-spacing: 0%;
     text-align: center;
     margin-top: 32px;
+    cursor: pointer;
 }
 
 .development-card .development-card-title {
@@ -199,6 +200,7 @@ main {
     letter-spacing: 0%;
     text-align: center;
     margin-top: 32px;
+    cursor: pointer;
 }
 
 .card-img img {
@@ -379,6 +381,7 @@ main {
     border-radius: 8px;
     background: rgb(255, 255, 255);
     border: none;
+    cursor: pointer;
 }
 
 
